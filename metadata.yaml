@@ -1,0 +1,29 @@
+_repo: Aus-grauen-Mauern-und-grunen-Weiten-Schauen-und-Sinnen-auf-Heimatwegen_66770
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riess, Gustav
+    aliases:
+    - Rieß, Gustav
+    - Rieß, August Ludwig Gustav
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '53950'
+    url: http://www.gutenberg.org/2009/agents/53950
+description: ''
+gutenberg_issued: '2021-11-19'
+identifiers:
+  gutenberg: '66770'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Germany -- Saxony'
+- !lcsh 'Saxony (Germany) -- Description and travel'
+- !lcc 'DD'
+- GITenberg
+title: 'Aus grauen Mauern und grünen Weiten
+
+  Schauen und Sinnen auf Heimatwegen'
+url: http://www.gutenberg.org/ebooks/66770
